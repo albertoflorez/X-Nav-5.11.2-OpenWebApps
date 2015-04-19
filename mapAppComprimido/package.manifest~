@@ -1,0 +1,9 @@
+{
+    "name": "My_LocatorApp",
+    "package_path" : "/map.zip",
+    "version": "1",
+    "developer": {
+        "name": "Alberto Florez Pages",
+        "url": "https://github.com/albertoflorez"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "My_Locator",
+    "description": "My damn simple locator",
+    "launch_path": "/map.html",
+    "icons": {
+        "16": "/map-icon16.png",
+        "48": "/map-icon48.png",
+        "128": "/map-icon128.png"
+    },
+    "developer": {
+        "name": "Alberto Florez Pages",
+        "url": "https://github.com/albertoflorez"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "geolocation": {
+            "description": "Access to your position"
+        }
+    },
+    "chrome": { 
+        "navigation": true 
+    }
+}
