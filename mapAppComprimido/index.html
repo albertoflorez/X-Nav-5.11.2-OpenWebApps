@@ -3,7 +3,7 @@
     <p>Packaged app installation page</p>
     <script>
       // This URL must be a full url.
-      var manifestUrl = 'albertoflorez.github.io/X-Nav-5.11.2-OpenWebApps/package.manifest';
+      var manifestUrl = 'http://albertoflorez.github.io/X-Nav-5.11.2-OpenWebApps/mapAppComprimido/package.manifest';
       var req = navigator.mozApps.installPackage(manifestUrl);
       req.onsuccess = function() {
         alert(this.result.origin);

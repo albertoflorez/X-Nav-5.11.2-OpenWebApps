@@ -1,6 +1,6 @@
 {
-    "name": "My_LocatorApp",
-    "package_path" : "/map.zip",
+    "name": "My_Locator",
+    "package_path" : "albertoflorez.github.io/X-Nav-5.11.2-OpenWebApps/map.zip",
     "version": "1",
     "developer": {
         "name": "Alberto Florez Pages",
